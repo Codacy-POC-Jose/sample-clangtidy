@@ -8,6 +8,5 @@ int main(int argc, char **argv)
 	fprintf(stderr, "usage: clang-tidy-example [1/2]\n");
 	
 	
-	
 	return 0;
 }
